@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '10.0'
+
+target 'ReactiveCocoaTextfieldInTableViewExample' do
+    pod 'ReactiveCocoa', '2.1.8'
+end
+
+
